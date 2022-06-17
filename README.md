@@ -1,2 +1,2 @@
-# SanitasPruebaAPI
+# CalculadoraAPI
 Sanitas - Evaluation
